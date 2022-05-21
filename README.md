@@ -2,4 +2,4 @@
 
 Componente tarjeta!
 
-https://xein-dev.github.io/Componente_Tarjeta/
+https://polyxein.github.io/Componente_Tarjeta/
